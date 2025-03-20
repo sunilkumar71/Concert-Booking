@@ -1222,11 +1222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj",
+      "projectUniqueName": "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj",
       "projectName": "ConcertBooking.Repositories",
-      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj",
+      "projectPath": "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking.Repositories\\ConcertBooking.Repositories.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.Repositories\\obj\\",
+      "outputPath": "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1244,11 +1244,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj"
+            "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj": {
+              "projectPath": "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking.Infrastructure\\ConcertBooking.Infrastructure.csproj"
             },
-            "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj": {
-              "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj"
+            "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj": {
+              "projectPath": "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj"
             }
           }
         }

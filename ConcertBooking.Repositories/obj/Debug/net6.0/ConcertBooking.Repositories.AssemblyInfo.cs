@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcertBooking.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1077a029ce37b3c1a1775c226dbc8de08145ed5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcertBooking.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcertBooking.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

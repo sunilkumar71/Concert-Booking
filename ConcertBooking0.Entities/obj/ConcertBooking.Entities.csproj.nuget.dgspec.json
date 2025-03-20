@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj": {}
+    "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj": {
+    "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj",
+        "projectUniqueName": "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj",
         "projectName": "ConcertBooking.Entities",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj",
+        "projectPath": "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\ConcertBooking.Entities.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\obj\\",
+        "outputPath": "D:\\Concert-Booking\\TechnologyKeeda.Web\\ConcertBooking0.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
