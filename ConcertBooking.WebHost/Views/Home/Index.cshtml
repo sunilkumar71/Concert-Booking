@@ -1,0 +1,97 @@
+﻿@*  @model List<HomeConcertViewModel>
+
+ @{
+     ViewData["Title"] = "Home Page";
+ }
+
+
+ <div class="row mt-2">
+     @foreach(var item in Model)
+     {
+         <div class="col-3 mb-2">
+             <div class="card" style="width:18rem;">
+                 <img class="card-img-top" src="@item.ConcertImage" alt="Card image cap">
+                 <div class="card-body">
+                     <h5 class="card-title">@item.ConcertName</h5>
+                     <h5 class="card-title">@item.ArtistName</h5>
+                     <p class="card-text">@item.Description</p>
+                     <a href="#" class="btn btn-primary">Book Now</a>
+                 </div>
+             </div>
+         </div>
+     }
+
+     @foreach (var item in Model)
+     {
+         <div class="col-3 mb-2">
+             <div class="card" style="width:18rem;">
+                 <img class="card-img-top" src="@item.ConcertImage" alt="Card image cap">
+                 <div class="card-body">
+                     <h5 class="card-title">@item.ConcertName</h5>
+                     <h5 class="card-title">@item.ArtistName</h5>
+                     <p class="card-text">@item.Description</p>
+                     <a href="#" class="btn btn-primary">Book Now</a>
+                 </div>
+             </div>
+         </div>
+     }
+ </div>
+ *@
+
+
+ @model List<HomeConcertViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .card {
+        height: 300px; /* Set a smaller height for the entire card */
+    }
+
+    .card-img-top {
+        object-fit: cover;
+        height: 125px; /* Smaller image height */
+    }
+
+    .card-body {
+        padding: 10px; /* Reduced padding to make the card more compact */
+        height: 100%; /* Ensures card body takes up full height */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; /* Distributes content evenly */
+    }
+
+    .card-title {
+        font-size: 1rem; /* Smaller font size */
+    }
+
+    .card-text {
+        font-size: 0.875rem; /* Smaller font size for description */
+        height: 50px; /* Limit the height of the description text */
+        overflow: hidden; /* Hide overflowed text */
+        text-overflow: ellipsis; /* Add ellipsis if text overflows */
+    }
+
+    .btn {
+        font-size: 0.875rem; /* Smaller button text */
+    }
+</style>
+
+<div class="row mt-2">
+    @foreach (var item in Model)
+    {
+        <div class="col-3 mb-2">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="@item.ConcertImage" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">@item.ConcertName</h5>
+                    <h5 class="card-title">@item.ArtistName</h5>
+                    <p class="card-text">@item.Description</p>
+                    <a asp-action="Details" asp-route-id="@item.ConcertId" class="btn btn-primary">Book Now</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

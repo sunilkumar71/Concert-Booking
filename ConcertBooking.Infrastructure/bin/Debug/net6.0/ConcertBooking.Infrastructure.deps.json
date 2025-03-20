@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConcertBooking.Infrastructure/1.0.0": {
+        "runtime": {
+          "ConcertBooking.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConcertBooking.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

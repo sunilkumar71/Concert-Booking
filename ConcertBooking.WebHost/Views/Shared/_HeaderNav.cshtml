@@ -1,0 +1,57 @@
+﻿@using ConcertBooking.Infrastructure
+<nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" asp-action="Index" asp-controller="Home">
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbgAAAByCAMAAAAWEDTnAAAA2FBMVEX////MITHJABvLHC3KDSTikpjJABfKAB7JABrLGSvLGizLFSjJABXKESbSQEzwxsn44uThjJL77vD99PUAAAD++fr12Nvgho3yzdD33uDmoKX19fX+9/jst7vdeoHpqq/WV2HZZm/OJzfbcHjUTFfROUbd3d3uvcG8vLzU1NTcdHzno6jw8PDXXGbm5ubHAACLi4uurq6bm5vTR1LCwsKUlJTQMkB8fHxra2upqak/Pz84ODhhYWGPj48hIiIMFBQQICDgzc9HUVBwdXUlLi0cHBxISEhTU1O8sRv0AAAXaUlEQVR4nO1dCXfayLJukFBLSJjNrDK7wYAxsWOHxFnmzryZe+f//6MngQB1LU2TCcGZw3dOTkKQRFcvtXxV3RLigl8CveK5W3DBd6B59a557jZccDRKAycvW+duBUC9nDsJ2r27Vu3cwv0Q3JSln8nYlXO3A6D3zj4NZFZmBp3queX7x+hl7EwmY1lvTZJ23KwTwfKl1XhrM/U4NJ+z1lqU1dtSHy+zcuF0AxcLbPvtcwv5/SiNXC+R4+rcbUkjXAgx9086cJHI2dvSuQX9Ptzk7N2s9vrnbk0a00chBt6JBy6T8f1f0pXurGRKhsG5m5PCMhq68DZ/8oHLWM6vF73Wb10rJUKhe+4G7bF4EeK3lyuL7e8fOHJB/dzSHouuVCSwc+duUBqvEyGGP2PgIv/yV3MuB6rtl/fnblAaTxNRPa1TuUPh4dzCHglgQmTn3A3a42UmZv/544RhnILgDUlugpWqibJvyEqHkXvyWHd/0sBZw7cVwR5CRh04900Z6euFaP6sgctke+cW9xjcAE0k31Qsulgs77I/a+Dyz+cW9xhUQL+8JefqgxAff+9IuptPAOetJUZ0aKkDZw1vzt2iFMJZuDglxwxg/0qkZRMM3PjcDUpj8kmIE3PMaXi/UkRwp2qi/O25G5TCS6QtX7qn5pj3eGuZES166sC9qUk3E+Lr60/gmHd4c0lkDYAJ8edH3V2rlOoxWqXqcZO1Vi211vdVdDb16QkRBCdF9oBLfbMVt3KkuKJ2U6lUqsfeRTWglUyuhmpCCg3TZ5Q6jYerjMw6MVxpD68eGh0Dt6zWWt9oSze+MSu9Vb9736SHbzIR4h9wzPmCzMqkSKFgMv6aIDZu9Ti/afRG3EGjYxI6le5yo/4448ft8Ifj/rxd/K51Hff32LLluyTaHKkmxMyxqhW7K0fanpXqVMvyCtJZdbWZrWpnNHRkQb0xvs8b9FDJxORJLK5fVsTA+XQRiXKlL/3bRq/YKpWiWdrsNG4L8uDYMQNXu5uvUKs34jYOibtysra/uzO+y3blbY4a8urqSsFqP8D1xnjbgC211VdNiAVuviKC0lI54xSYdWAVgiuW86vP7axP32h50p6j9RqKpwo1bvMyhdx4d61l26M7MBMqvavsgdVLsg+lhuVqxH2+48Rtjjhx83bQx7eVAiuNvL0VoNgP9pPSSSbXGDzZUuGh8KA0cmyt/HmHrgRo3gZ6B7EQjIAS+e9MVIj422VU1M4cFgo5Uh3dZQ60AN9VGgTcqCXiBn36t5614nrBFVysdUe5YsudVh6C9OLaCp/RT0KrD55edtJG0c86BV86Un2ILzFTXRkoP5+XjmPbriMV4Qpumi5cxKnUFsF42XQhWi3RqlbQ5SrVqn1dOI/Zh1pX6f1C1vE9CScuVfhQ6gcpxWxFWjU26MqN+QDkrIsqK5tU/9xJYMySaXKACfRGyrPrw/QC8JxRbGhrrd5K7Q8rgKJ0ZHq8veD2vh51bq3UGThKu4LU702X4um6iFccR+NXNzPDz+vsTl8TzyP2oWml5fKdbjNudOt+CMTNQtvYTs9SyxmW7yJb27orD5VqA3mlrFVA7m2qf9qBOkssayN8VV2eCKqXqT5F9vcqC+TRLamqj656421K0MpAmWjyNjUqr9GEwzPLYsjg0roN9rO2MLSmSahD9iGntNp92Ms0B+Jm1N8cpHtVjlP6526oKKxhupvuQWQ2WPc4FH6VCAu/AFAqGbrKxU453daROpN9JZB/kPyNUf8ok8fu774IPyKCIAZHEqwTQPYhBqHISwwePFfaFSg1HQ+q/iqkFdPNs83eJ24UZe2tUso5pw5cXP3TQY3dpjDqB1acnTI6c2Xyu2qDKsASp5WlalhcFHE0lO/lVvVH6+3x8R4bJa6eKVY1qWHncMtSMb5iFwbqbFNbXQLNSgUSN8/pOYzy6rXn9O+nCya66tyP1kw97TxYfuQTZINEwCLQRJYTKHi3/92GcqmtGj8UEKbK/EZKD9hEt6ux2lbWpRDvXwmO2Rt0ehGQP922M/7zYW6CzxMpdmGub/WDOvypyaRMU6IeQh1zZ38BrP7pifHOwcnb7nh+X2xVKlVSCuuqDrBT3vfK2sQOAuwPd3unqgmtMdG1qiHbWYzpJ7qO2ZMRoE8Wk0BWxoCUuGGVTNou5BTLm0dREVDhW58hakX6C1mG9wmgYCxv1x8gpJZ35e2jfPe5DUIgQFXydcx1dWkGyOFvAWf2XXJFMzhwYwx1ydnJzA+XS76OGXM8A18aFSSz7Kfc2wXgmmfRg0E6LL/dVqjc6JFuVEkZc7mTA4TUhVwiet59wHLlCE+GQm2sSOvh7E9FmUdylWiy2kq9sU8+HtrleOGEH4S4ft9nexkpoVtnv2Lq7dHt8y3BowlEz6YeudO+VdX3JLoFiDtObq0qU1DSFFp6aXnBTj/DkDppgxxT0xEYRLaOuaxqBhc/q5b63YKf2yqAnHojU+oN5m+is5bhbMFyzHgRrHbzu3fl2r6Xz/vSIwgpwlFNpNo1rqtOJGIAKqnOt/PtrbhlJfCDfkDy+/tZYWX3kdEN3SyXpv2BQeTqmEvQFOJL9gGSl53vTE0FhKpD+vlVtRlJsPLxSRN2IV6xut1L2xzvOUlMBaDc8R5bGlCAkkBKTVR389STXUZccsEVU4ypXKXURoUqZ7O4OldYDstUqIEojbps28XRJEr1lerpZ2zKWMcACyteToulCL9RHPMGBagFS4mxuE+TTZRSb3Js0S4dB90EovO2A2e5/dTwKOJS4x1v1t5JYOfSjlqLCDAtyVHYIGnCXNcCc1QSzluiKuUwLWUFmBN2awXMLpXXybjJ9R8cUWtlUAM2f5WB/JiRZktstzRgXX2E5RHiVq1E3HSPVZVkAJ7eN43sTp68O1JbRhWQumymxQPlsLRbBiwhWZhSi2dpQSqTCFo4q8C1owxU6loXfwxhERq8AgNxRFk0F7kVZ2WStgP7QTI1a8IhElf5T9V6olxDz9tJaWVRcoAg98hoYo0bcDFdWVgBWSUy2xqp93wwAG0FHi6/+Q4SJGuh39PTkO9NitDCjWUHLqEBK+AZpP2IxPVQGupZp6SbV3uG2fbxM7HPRKj53c/DNpKZLvhI7NBFKLkumkSw2/mtQMRPvF+I919YR4Kusajg3Bk2q9wzt4oEVnK61Gyuu8Ez1PuqC6c6eqXB3vT6QYNgIXKI3NNVUoCBQxZ/DWCrMx51VT3AkwhGTOSIrwF5l80snz2x/BRdYzHAIRoeOC4c2C5i4CjRWaQi4bGoD05vn6mV93k9K3gglwcKL3V7TMGSoNsIXHrGvFSI0YT1IpLNuMBVEC+oybXmrAzSTaaYfxzh4Km9QRJ2wYQJzRmUiPImlb9MlYz18injNmb2QyFyT1dzdnc4PsOdysSVGNAZ5aI46jcGYiHCyaLMDRy5eK8ImgUvzS7DnCTaFy5I883ViiuwPzCmmYrcbI+1FoC21u/Gh+WwfeoiKKjxbmPYBZpqWzhwkb2JGa+PbB0zdXJVh/Jk8NKEmh/IBSIT8x0FKlu7LYsuDdy9cXPZogrg2WTSPA4BI6oS1hNxUToC7AJN0Sa0ZXEVwWQWomm4byoRW0HR18A7NamCv5RcSL+b7lRVZdhor80xW8n/BA+6ulPwu1Zel6GC5bCUVkAcGo6MGBwx4mjgIq06feWZfMoa06EDds30ZrMCsz7amZ+GqtbXBRa9fXXKnnenUcuD0ElrkCBhQSlBRDTwvqEKSJtkiOKvLaBWtYbxWRlfJxzHTFljuMATmeDShCHQDhv2AQ2/Y7pHV81ARS1s3u6NW8Fv63O8sA5Rr9eAJiLjLBT2MMkKhDoMdDU3Qu/RyoRLEX6ecWqNMJdVj7oWl9xRnOAamxFCwYLxdkegYFaj7K53PTk/lOItgZWuny/PgKqk1DnyyE0HDsVgFMWZAHqPMRX5aSaqXDaOUOp0yIeXJkvGOGv3G4VTXPktAuyn3bClkzcsYPWP1O4wHRpQlUgS04FD8ZLPtwV6rrGNm4UhDCF3IJT6gNSUeGmyMf0mykSPMR04ttJR5d05FI/ZYVoD/UIuT1Q8YDpwMKLUhHGou6yr6URMr+usI4GZd7omG+8b42L6hGNG7pDpwDGVjpB35wDLYbVlhtAgOpQuu4UdYuqcwHhJd6Ii7K64fHC5mDa51YGdfIY6xkuTi78Tjhm6wsbOCWk7Me/OAZbDajcqwklCFuUjSUzPsIEeoe5EReraazLVsQGOvxkiCy9NrvxoU2qKU+5MqguBKFElkjcsgJUvsBkd4rd2CSkFK9QXhhEp7AJdZIKunS8jI/fC2iO8r4bhQ/As4yKMjXK6Qe4Qm4QGwE4PlbxhActhtXyNkUFEEhpyQDCi1BEnN7DX7dxT5Fb+H1HHvGkp3lfDbDvCig42a4vNvKqiXzQ9lg4NnE8lb1jgclgNyP0hEFhCs33iVeieaThOtAsuavfkFUcJW2BzWWLWJgpBWOdvM6/wwJnurkYDh/bwaAE0hp6egjv3SaoSSWh4pAZy5TWTqI5oteJ64LjzmPEUI7ZjxcCMH7vNZTOv8MCZHkSBbNxx590ADe5ojSM0iGQCY4g6I2N0+hAeON42wi0MGbsVDdvnKedI4EXPKFWs/dn4ezOvkNI2Pv0EeZVHHT0CnaJAy9fg/SEEkFdpGMjhgeNXP+KYM9WFEI8zjmPGLWXKk/HS5OPvdfOIQk7Dc+kwB0pVh3GA56kG2nthOSxphlEcZ5jXQUe7ajhm6MvHrvnHV2rScC1g8j/Yk2Vz6kkWgJinZl50DRnPYw5thTZaape50emwI9QlZiel1+B9msB9DgY5VtqLcMLWMWMnnxliXHHC7hxIaj5xWGF6aA/ya495FUALRGaW9mogLZ15yiFJLc/IyMFe1wwcVImyM3uJy2GZPiYcNoseOCL+5nLqG46Z8IdMjRzeMXnE4Z+w+meluxgZRNJ2EUVRZjEpXASagYOTNZZ4JmY8x4ycfMZyYa+a32S1oY0IBsaQ48Nr2TY+p+m4w/Cg6+uQEwSl1Ux1JTQ7vPwwjFuHaZ8XqNpo930GbRxguDEcf7O7SPzN9wTLVjDTldjtschCRhJgeeh7GGbp6eo5ajK7Jv6SeVUlJIijmToLxewbxzETTj43cLChNc6p3NUxE5SjmXtYwoGGNA7liJ37PCBV6dGXEUVv7K6bNKCO5RXsPdyG3IwH7ukzV3Ns7uSjFCBMNO+l3+6uI9wcw/7Hi9nyTVmvhklktoWhQaR4d31+Nnk8WAW8dwyqRdYLavGVrzk2dvKxSOwxE7twmXA7afYdgUgYGc1wogvoyGwLQ4NIbUsyMbuwCISngIBvsp5u4RMfcxk7+Xhpsomi3WRoEkMrjUpJKX0dGDqWsPpHGwKang5LxUgmDQIhEcvWQvowJoYfI+/kT65Y3DjJhpcml29ItY7KM5g59oTjo9lxowDUhOprAk137kMTtG6QwSH99ybJB3zd1jC/zLhkNXbymSQbnitsTfveqlDTxefarqBNdFTW7ARQUM6mT7sD/cIOXJVKYfGb7naAO8fRJtIEkMBZz+7XTyyPRRS5kqV5lKmgiy8z6VVMFl4aKUuyQpDYhU7cCZa5XqGBCc2z2TnKSXAOM3FQcdOMN9CUG/O5EGLKBssoycYdOoMdWW7jQNqqNKhVGZiQDlRHWZ6BmoVUg6MNAMHA8cU8N2TUepg/Ace8MLlkdeFvguvFVIjrKaMAifibSbLhrBZXYZsuLalSR4taJvwJ1HhreMPDIwcJBKm9Grpimu1r1Ixmj3LYQ6Xv6JfXgMm2ndnTZcidgkrE38yKQ1wQTrftfjelfnu0uAZrjuwob3iwGBpGZpxV2QBaYU26vEspS8s9ZOdAe8i9seq6352d92GCix+2HdGHz+AidRRuVoJ8fGIxcaliVQaUsrRcAztHdlTePzTFYfWP/t3QaP8a77rWnslOlGgfNJRD6QHKr1TVaSFpwmwiJv+DZwtuYR5/oxLc+uo5AqWCFatSHZMrUx4uJa/dUp6wlYX7/LeXJ5G9UfXPXgq4rjWeYmVFiuK5AyxLqbfb5Xyj9oCLArCSMv39VdJ9i1BM/kaVKAlwzSETf3OUAkVe2wo5UsrQ4soRJW76OG2mowo+Pt+71iwPE8N53Hs7UAFdRg5S2vhG+aXSilZcvvOca25na63S7M3HWbknoUvqURvwLK/WMO04FlJH7f8WCo5jxk4+k2TjAhyC4oCLs8UcmO67KXFvKs370cqVfnq1Mh1l2fagsxev2rwfZFx7W98Oq38OEFMw8Rwfa341z7Xv27nG6BYQnZVnjqu3XXvcHwwebseZbCSFlTq9MVrWdnpoLPV82HvlS3mb6oCZCJnKLcKdJfei8vITlDSyKqUxo6jztmOv+g8Pkbh517VjcdUzOCtXnIqX2dVDt1FuzB/G0UPiKb1NLIL07aECsTp1fNTmNRoFP49ePdkNOF86ClYi5HcvtEi7fa2M6n1c9ZLGlu7HytG1TiqV8S3UvPMPO/mM+8nJT5hEbFVqI4cXN58WF2rk2ojtKMsrRPC3gfpuhgPK7mBVD3EuyB7YySwOJSuL0guKJNUHpQcs6aweBoP+MFAeJoeqFl0uJxyviM6R4JJsXLxCmESqPv4uY/a2SKyROwWz1xV6W7cfkkeHIo9qRvO+GepQyrZ9eOg8+Q6kATueepfl+b7CDlk23Iw0+8zziijJxu0O5qpKCZNIatVaztW/1SQRF/t01W5w8IWFViFYba014PEPB/sln38+yVDV7le6d5ZYBdd96GH/qZ1x2ReWWL5j5UDsP4tf3s5wzNaqVVLBhXFuvULh5hkLwGQuq+2hVlzbzRLirnu2IaXm1XdWwfEa+0NGATWVPbx9udoPuMcTb5pZo9mItFwBeaTx8erBuFFkUqx3A+nYiISNbgr8Oc5hTCO38j1Xx2xtXga2B6vRpEOC4sxZq9LsrsVFjYhPk78qF/kUa63Xd7LU688sXwbDblroyjtw+LxJrUTxNsAdmqEYwT1ave6z5wRZuXk9m8w6gT0e5PRvRqs1cw9DN3A3N9mbm0b3dEw7fWF9xZNAS9/F4vqBsxFXSuk6QeFqZPAiuOpd49mOJI6cvRjxzW5gX817cEUBHWJ4XkCr/eBtn+5vnh91qnOonLBSL3Z69+32fa9TrJcMiyuqrWan127Hd901qQOxErzMNITwCXDwNJOaIm7FfAdVrVTstcuNbjcKBHL3HZ3Q34NSsxM/fT6Pnp9r94rNknFl2QkwmYrF9UTzGpwfDvbs2guOQijEI1sOe5KBMy86vkCHLxNROfCKtB8KfebyAkOEYhHOuOrkk0CfubzAENOleL0mat9PhgOZywuM8SKWHMd8koHTHuRzgTEWf2tepXICHLOV7QIeUyFeX9na1RPA+LjiC7SYxS9r5OqYTwHTMzEuOICXR/7QrVPA+JzpC/RYzvg65lPA+JzpC3RYvBfi+ond9HuKgTvigIQLNFiIafgzOWbTEwEvOICvT/xp5ScZuAvH/COwCEX4VOPObjrJwF045h+B2UTMrv/4ifG37pzvC47B+zBkj7k7BYw32V+gx8eQ3YFzCujO+b7AHNNQPH0tvstmZXb9R8rdP//pxyz4uEFwGbgfgklMnVSKPxHGZ15foMXkqxD/mYrJ9VI8fRHiz49C/DUVy/jjX+rH+Ns/hfh983GafPsl9TH69q+n3cePqY+/R7b0WzRHFucW99+D8EWID0ux+BaK2ftIdU6jLp6IEHx8DMUk+fhh8+2E/pb4GF/8IT5oXYhleG5x/zX4sF4Kk/8J8fooxKeoc/+72H38Gn38En38sv/2t823T6mPn6OP0dL7FI3Tl6VY/rX5+GdcaBt9/Lz/+Pdlvf1QLJbr5E781yRc/zNUP4rv+rhAHydnFfPfhliDRctnGvXqh3D9z8lT9HG2/mf8Z/m0+fbb5tvl6+bb+OKP+4/Et8nHl/3H8F86dP8PDI7SY7Z/4cwAAAAASUVORK5CYII=" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="true" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse show" id="navbarColor02" style="">
+            <ul class="navbar-nav me-auto">
+@*                 <li class="nav-item">
+                    <a class="nav-link active" href="#">
+                        Home
+                        <span class="visually-hidden">(current)</span>
+                    </a>
+                </li> *@
+
+                @if (User.IsInRole(GlobalConfiguration.Admin_Role))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Concerts" asp-action="Index">Concert</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Venues" asp-action="Index">Venue</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Artists" asp-action="Index">Artist</a>
+                    </li>
+
+                   @*  <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">CMS</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#" >Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                  
+                        </div>
+                    </li> *@
+                }
+                    @if(User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Tickets" asp-action="MyTicket">Ticket</a>
+                        </li>
+                    
+                    }
+            </ul>
+
+            <partial name="_LoginPartial"/>
+            
+@*              <form class="d-flex">
+                 <input class="form-control me-sm-2" type="search" placeholder="Search">
+                 <button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+             </form> *@
+        </div>
+    </div>
+</nav>

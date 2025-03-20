@@ -1,0 +1,78 @@
+﻿@model ConcertBooking.WebHost.ViewModels.HomePageViewModel.HomeConcertDetailsViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row">
+    <div class="col-4">
+        <img src="@Model.ConcertImage" alt="Concert Image" width="300"height="300" class="mt-3"/>
+    </div>
+
+<div class="col-8">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ConcertId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ConcertId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ConcertName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ConcertName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.VenueName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.VenueName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.VenueAddress)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.VenueAddress)f
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ConcertDateTime)
+        </dt>
+        <dd class="col-sm-10">
+             @* @Html.DisplayFor(model => model.ConcertDateTime) *@
+               @Model.ConcertDateTime.ToString("MM ddd yyyy")
+
+        </dd>
+        <dt class="col-sm-2">
+             @Html.DisplayNameFor(model => model.ArtistImage)
+            
+        </dt>
+        <dd class="col-sm-10">
+            @* @Html.DisplayFor(model => model.ArtistImage) *@
+            <img src="@Model.ArtistImage" height="100" width="100" class="rounded-circle img-fluid" />
+
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ArtistName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ArtistName)
+        </dd>
+        <div class="mt-3"> 
+          <a  asp-action="AvailabelTickets" asp-route-id="@Model.ConcertId" class="btn btn-success">See Available Tickets</a>
+        </div>
+        
+</div>
+
+</div>
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ConcertId}) |
+    <a asp-action="Index">Back to List</a>
+</div>

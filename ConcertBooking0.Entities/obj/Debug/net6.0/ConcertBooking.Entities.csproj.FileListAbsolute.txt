@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\bin\Debug\net6.0\ConcertBooking.Entities.deps.json
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\bin\Debug\net6.0\ConcertBooking.Entities.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\bin\Debug\net6.0\ConcertBooking.Entities.dll
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\bin\Debug\net6.0\ConcertBooking.Entities.pdb
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ConcertBooking.Entities.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ConcertBooking.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ConcertBooking.Entities.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ConcertBooking.Entities.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ConcertBooking.Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ConcertBooking.Entities.dll
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\refint\ConcertBooking.Entities.dll
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ConcertBooking.Entities.pdb
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ConcertBooking.Entities.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Core\TechnologyKeeda.Web\ConcertBooking0.Entities\obj\Debug\net6.0\ref\ConcertBooking.Entities.dll

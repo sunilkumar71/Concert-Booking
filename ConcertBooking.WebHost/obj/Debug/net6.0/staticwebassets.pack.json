@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ConcertBooking.WebHost.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ConcertBooking.WebHost.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\50b9bf03-d1be-4f46-8414-48f1fcf8653c .jpg",
+      "PackagePath": "staticwebassets\\ArtistImage\\50b9bf03-d1be-4f46-8414-48f1fcf8653c .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\62842464-2088-4bf4-843b-0c23ffc4a84b .jpeg",
+      "PackagePath": "staticwebassets\\ArtistImage\\62842464-2088-4bf4-843b-0c23ffc4a84b .jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\68ce23c8-20e3-43c9-9945-631ac25e11be .jpg",
+      "PackagePath": "staticwebassets\\ArtistImage\\68ce23c8-20e3-43c9-9945-631ac25e11be .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\6ce12dd8-2d3b-4760-ba87-36e980957701 .jpeg",
+      "PackagePath": "staticwebassets\\ArtistImage\\6ce12dd8-2d3b-4760-ba87-36e980957701 .jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\8fa4c9c9-4c66-483e-985e-fa757c455f19 .jpg",
+      "PackagePath": "staticwebassets\\ArtistImage\\8fa4c9c9-4c66-483e-985e-fa757c455f19 .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\d1fd6c7d-4029-4166-a36a-85f0ce546fed .jpg",
+      "PackagePath": "staticwebassets\\ArtistImage\\d1fd6c7d-4029-4166-a36a-85f0ce546fed .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\d272f4df-30cd-403d-a48e-565194764019 .jpg",
+      "PackagePath": "staticwebassets\\ArtistImage\\d272f4df-30cd-403d-a48e-565194764019 .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\e31c42ef-e3e1-4a3a-9994-d01db7b47845 .jpg",
+      "PackagePath": "staticwebassets\\ArtistImage\\e31c42ef-e3e1-4a3a-9994-d01db7b47845 .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ArtistImage\\ee93112c-fae0-4e44-925c-71ebc76aa32b .jpg",
+      "PackagePath": "staticwebassets\\ArtistImage\\ee93112c-fae0-4e44-925c-71ebc76aa32b .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\40afb9ec-df3d-4443-9c53-f7f7cd610c3b .jpg",
+      "PackagePath": "staticwebassets\\ConcertImage\\40afb9ec-df3d-4443-9c53-f7f7cd610c3b .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\7a04fa7c-8b9e-4ea9-ae03-6eb181651525 .jpeg",
+      "PackagePath": "staticwebassets\\ConcertImage\\7a04fa7c-8b9e-4ea9-ae03-6eb181651525 .jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\d4a69d25-fb2f-4662-aad6-00145ade75a4 .jpg",
+      "PackagePath": "staticwebassets\\ConcertImage\\d4a69d25-fb2f-4662-aad6-00145ade75a4 .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\ConcertImage\\ee8ad1df-8f7b-435a-946d-96461efe6b1f .jpg",
+      "PackagePath": "staticwebassets\\ConcertImage\\ee8ad1df-8f7b-435a-946d-96461efe6b1f .jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\css\\solar.css",
+      "PackagePath": "staticwebassets\\css\\solar.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Core\\TechnologyKeeda.Web\\ConcertBooking.WebHost\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ConcertBooking.WebHost.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ConcertBooking.WebHost.props",
+      "PackagePath": "build\\ConcertBooking.WebHost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ConcertBooking.WebHost.props",
+      "PackagePath": "buildMultiTargeting\\ConcertBooking.WebHost.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ConcertBooking.WebHost.props",
+      "PackagePath": "buildTransitive\\ConcertBooking.WebHost.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

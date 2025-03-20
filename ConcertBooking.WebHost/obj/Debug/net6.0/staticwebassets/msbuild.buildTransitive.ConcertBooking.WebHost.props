@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ConcertBooking.WebHost.props" />
+</Project>
